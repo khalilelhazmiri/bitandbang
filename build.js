@@ -16,8 +16,7 @@ const options = {
 // Text + chalk definitions
 const data = {
   name: chalk.white('           Khalil ELHAZMIRI'),
-  handle: chalk.white('bitandbang'),
-  shorthandle: chalk.white('bnb'),
+  handle: chalk.white('kelhazmiri'),
   work: chalk.white('Web Developer @ Norsys'),
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~elhazmirikhalil'),
   github: chalk.gray('https://github.com/') + chalk.green('khalilelhazmiri/'),
@@ -32,7 +31,7 @@ const data = {
 
 // Actual strings we're going to output
 const newline = '\n'
-const heading = `${data.name} / ${data.handle} / ${data.shorthandle}`
+const heading = `${data.name} / ${data.handle}`
 const working = `${data.labelWork}  ${data.work}`
 const npming = `${data.labelnpm}  ${data.npm}`
 const githubing = `${data.labelGitHub}  ${data.github}`
