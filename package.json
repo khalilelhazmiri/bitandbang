@@ -1,6 +1,6 @@
 {
   "name": "kelhazmiri",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "A personal card for Khalil ELHAZMIRI",
   "main": "/bin/card.js",
   "bin": {
